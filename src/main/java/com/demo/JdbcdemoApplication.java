@@ -10,5 +10,6 @@ public class JdbcdemoApplication {
 	{
 		SpringApplication.run(JdbcdemoApplication.class, args);
 		System.out.println("Hello World !!");
+		System.out.println("Hello World !!");
 	}
 }
